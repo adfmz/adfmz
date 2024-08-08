@@ -22,7 +22,7 @@
 
 #
 
-![Snake animation](https://github.com/adfmz/adfmz/blob/output/github-contribution-grid-snake.svg)
+
 
  
 #
