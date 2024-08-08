@@ -7,8 +7,7 @@
 </div>
   
   #
-  ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
-  
+ 
 ## About Me!
   I'm 40 years old, fully immersed in the programming area. :alien: 
 
