@@ -6,12 +6,15 @@
 
  
 
-- 🌱 I’m currently learning JavasScrtip , Html and Css, also algorithms(this is incredible)
+
 - 👯 I’m looking to collaborate on projects focused on eletronic engeniring
 - 🏠 I live in São Paulo , South zone.
 - 📫 How to reach me: adfmuniz@outlook.com
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: ✨ cat lover ✨
 
-Technologies and Tools
+🖥️ Technologies and Tools:
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+          
   
