@@ -1,5 +1,5 @@
 ## Hi there 👋
-## My name is Adriana Freire and I'm fully immersed in the programming area, There will be much comming , this algorithm idea issue doesnt leave my mind and I feel very confidente about present. Future will be written in a very wide road. 
+## My name is Adriana Freire and I'm fully immersed in the programming area :alien:, There will be much comming , this algorithm idea issue doesnt leave my mind and I feel very confidente about present. Future will be written in a very wide road. 
 ## Good books define me as: Dont make me think(Steve Krug), Difficult Decisions(Hillary Clinton), Grandes sertões veredas( Guimarães Rosa) ...etc
 
  
