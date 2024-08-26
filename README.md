@@ -14,7 +14,7 @@
 
 
   
-  I have a degreee in Letter Portuguese/English 🧑‍🏫, also studied Information Systems for 2 years, since that I´ve been studied eletronic and programming lanaguages too. 🕶️
+  I have a degreee in Letter Portuguese/English 🧑‍🏫, also studied Information Systems for 2 years, since that I´ve been studying eletronic and programming lanaguages too. 🕶️
   I´ve accomplished a fullstack course by Impacta College and now I am enrolled in One-Oracle Next Education project headed by Alura company.
 
  #
