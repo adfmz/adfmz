@@ -9,7 +9,7 @@
   
   #
  
-## About Me!
+## About Me! 
   I'm 40 years old, fully immersed in the programming area. :alien: 
 
 
@@ -19,7 +19,7 @@
 
  #
  
- Good :book: define me: Dont make me think(Steve Krug) 📚, Difficult Decisions(Hillary Clinton) 📖, Grandes sertões veredas( Guimarães Rosa) 🔖 ...etc
+ Good :book: define me: Dont make me think(Steve Krug) 📚, Difficult Decisions(Hillary Clinton) 📖, Grande sertão: veredas( Guimarães Rosa) 🔖 ...etc
 
 
 #
